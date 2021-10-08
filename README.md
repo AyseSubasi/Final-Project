@@ -2,7 +2,11 @@
 by Ayse Subasi - Ironhack Berlin
 
 
-](attachment:Bildschirmfoto%202021-10-07%20um%2017.56.53.png)
+
+
+    "<img src=\"https://tenor.com/view/bonner-folha-de-s%C3%A3o-paulo-gif-15327842" width=\"800\"/>\n",
+
+
 
 ## Overview
 
@@ -46,7 +50,6 @@ Dataset:
 ## NLP Classification Pipline 
 
 
-<img src="Destkop\nlppipeline.png">
 
 ## Modeling
 

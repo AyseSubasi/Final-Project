@@ -4,7 +4,7 @@ by Ayse Subasi - Ironhack Berlin
 
 
 
-<div class="tenor-gif-embed" data-postid="15327842" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/bonner-folha-de-s%C3%A3o-paulo-gif-15327842">Bonner Folha GIF</a>from <a href="https://tenor.com/search/bonner-gifs">Bonner GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![<test>](nlppipeline.png)
 
 
 

@@ -1,7 +1,6 @@
 # Fake news detection - Final Project 
 by Ayse Subasi - Ironhack Berlin
 
-[Bildschirmfoto%202021-10-07%20um%2017.56.53.png](attachment:Bildschirmfoto%202021-10-07%20um%2017.56.53.png)
 
 ## Overview
 

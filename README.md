@@ -45,7 +45,8 @@ Dataset:
 
 ## NLP Classification Pipline 
 
-<img src="attachment:Bildschirmfoto%202021-10-07%20um%2018.07.01.png.png">
+
+<img src="Destkop\nlppipeline.png">
 
 ## Modeling
 

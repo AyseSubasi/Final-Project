@@ -1,7 +1,8 @@
 # Fake news detection - Final Project 
 by Ayse Subasi - Ironhack Berlin
 
-![Alt text](./Images/nlppipeline.png)
+
+![Alt text](./Images/fakenews.png)
 
 
 ## Overview
@@ -45,6 +46,7 @@ Dataset:
 
 ## NLP Classification Pipline 
 
+![Alt text](./Images/nlppipeline.png)
 
 
 ## Modeling

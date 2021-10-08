@@ -1,11 +1,7 @@
 # Fake news detection - Final Project 
 by Ayse Subasi - Ironhack Berlin
 
-
-
-
-![<test>](nlppipeline.png)
-
+![Alt text](./Images/nlppipeline.png)
 
 
 ## Overview
@@ -90,6 +86,3 @@ With the S
 ## WIP ...
 
 
-```python
-
-```
